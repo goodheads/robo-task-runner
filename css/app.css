@@ -1,0 +1,18 @@
+body{
+    margin: 20px;
+    padding: 10px;
+}
+
+.busayo-section {
+    left: 20;
+}
+
+.footer {
+    float: left;
+    clear: both;
+}
+
+.busayo-header {
+    top: 0;
+    background: #ccc;
+}
